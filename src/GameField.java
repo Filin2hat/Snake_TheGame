@@ -69,7 +69,7 @@ public class GameField extends JPanel implements ActionListener {
             Font font = new Font("Arial", Font.BOLD, 20);
             g.setColor(Color.orange);
             g.setFont(font);
-            g.drawString(str, 125, SIZE / 2);
+            g.drawString(str, 115, SIZE / 2);
         }
     }
 
